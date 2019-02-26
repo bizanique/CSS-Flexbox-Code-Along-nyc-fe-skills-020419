@@ -32,6 +32,7 @@
   height:1005px;
   border:10px solid goldenrod;
   justify-content: space-between;
+  align-items: flex-end;
 }
 
 .box {
