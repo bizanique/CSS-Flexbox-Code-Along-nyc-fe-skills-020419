@@ -27,6 +27,7 @@
 /* We start writing out flexbox here. The above is just page setup */
 .container {
   display: flex;
+  flex-direction: column;
 }
 
 .box {
