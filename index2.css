@@ -28,7 +28,6 @@
 .container {
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
   height:1005px;
   border:10px solid goldenrod;
   justify-content: space-between;
@@ -37,4 +36,5 @@
 
 .box {
   width: 300px;
+  flex-grow:1;
 }
