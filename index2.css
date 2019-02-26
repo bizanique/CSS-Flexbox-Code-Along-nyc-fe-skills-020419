@@ -30,8 +30,8 @@
   flex-direction: column;
   flex-wrap: wrap;
   height:1005px;
-  border:10px solid;
-  just
+  border:10px solid goldenrod;
+  justify-content: space-between;
 }
 
 .box {
